@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.4c249214.css",
+    "main.js": "/reactlivewebsite/static/js/main.4f0b703f.js",
+    "static/js/787.0ba78865.chunk.js": "/reactlivewebsite/static/js/787.0ba78865.chunk.js",
+    "static/media/manali.jpg": "/reactlivewebsite/static/media/manali.09a56af82d0e5c689277.jpg",
+    "static/media/img1.gif": "/reactlivewebsite/static/media/img1.a763fb0901ffb491be3d.gif",
+    "static/media/dalhousie.jpg": "/reactlivewebsite/static/media/dalhousie.b97b0e1b93a8767278d5.jpg",
+    "static/media/gangtok.jpg": "/reactlivewebsite/static/media/gangtok.57f23c233f6350ffc35a.jpg",
+    "static/media/ladakh.jpg": "/reactlivewebsite/static/media/ladakh.779c9300a3534df05e29.jpg",
+    "static/media/khardungla.webp": "/reactlivewebsite/static/media/khardungla.cc2d2e4d2f278d9b9d64.webp",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.4c249214.css.map": "/reactlivewebsite/static/css/main.4c249214.css.map",
+    "main.4f0b703f.js.map": "/reactlivewebsite/static/js/main.4f0b703f.js.map",
+    "787.0ba78865.chunk.js.map": "/reactlivewebsite/static/js/787.0ba78865.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c249214.css",
+    "static/js/main.4f0b703f.js"
+  ]
+}
